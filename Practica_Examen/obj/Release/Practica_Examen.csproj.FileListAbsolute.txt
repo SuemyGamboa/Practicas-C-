@@ -1,0 +1,10 @@
+C:\Users\suemi\Desktop\POO_CSHAR\Practica_Examen\Practica_Examen\bin\Release\Practica_Examen.exe.config
+C:\Users\suemi\Desktop\POO_CSHAR\Practica_Examen\Practica_Examen\bin\Release\Practica_Examen.exe
+C:\Users\suemi\Desktop\POO_CSHAR\Practica_Examen\Practica_Examen\bin\Release\Practica_Examen.pdb
+C:\Users\suemi\Desktop\POO_CSHAR\Practica_Examen\Practica_Examen\obj\Release\Practica_Examen.csproj.AssemblyReference.cache
+C:\Users\suemi\Desktop\POO_CSHAR\Practica_Examen\Practica_Examen\obj\Release\Practica_Examen.Form1.resources
+C:\Users\suemi\Desktop\POO_CSHAR\Practica_Examen\Practica_Examen\obj\Release\Practica_Examen.Properties.Resources.resources
+C:\Users\suemi\Desktop\POO_CSHAR\Practica_Examen\Practica_Examen\obj\Release\Practica_Examen.csproj.GenerateResource.cache
+C:\Users\suemi\Desktop\POO_CSHAR\Practica_Examen\Practica_Examen\obj\Release\Practica_Examen.csproj.CoreCompileInputs.cache
+C:\Users\suemi\Desktop\POO_CSHAR\Practica_Examen\Practica_Examen\obj\Release\Practica_Examen.exe
+C:\Users\suemi\Desktop\POO_CSHAR\Practica_Examen\Practica_Examen\obj\Release\Practica_Examen.pdb
